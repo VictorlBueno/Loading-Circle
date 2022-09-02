@@ -44,7 +44,7 @@ body {
     0% {
         width: 0;
         height: 0;
-        border: solid 40px #53e200;
+        border: solid 4px #53e200;
         opacity: 1;
     }
 
