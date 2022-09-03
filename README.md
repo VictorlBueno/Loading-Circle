@@ -1,5 +1,5 @@
 ><a href="https://vlb-loading-circle.netlify.app/" target="_blank">See this code running on your web</a></br>
-><a href="https://github.com/stars/VictorlBueno/lists/design" target="_blank">See more design codes</a>
+><a href="https://github.com/stars/VictorlBueno/lists/front-end" target="_blank">See more design codes</a>
 
 # Loading Circle ✨
 Loading with growing circle in waves
